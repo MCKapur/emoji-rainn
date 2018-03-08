@@ -71,7 +71,6 @@
   "scripts": {
     "compile": "webpack",
     "flow": "flow",
-    "prepare": "npm install react-snow-effect@latest $$ npm run compile",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
     "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,6 +1,5 @@
 {
   "_from": "react-snow-effect",
-  "_id": "react-snow-effect@1.2.0",
   "_inBundle": false,
   "_integrity": "sha1-GYuezwjHDSy/5e9spDOxLaINjgE=",
   "_location": "/react-snow-effect",
@@ -29,10 +28,7 @@
   "_shasum": "198b9ecf08c70d2cbfe5ef6ca433b12da20d8e01",
   "_spec": "react-snow-effect",
   "_where": "/Users/rohankapur/developer/projects/dapps/cryptobets/frontend",
-  "author": {
-    "name": "Adrienne Kerr",
-    "email": "adrie.k@gmail.com"
-  },
+  "author": "Adrienne Kerr <adrie.k@gmail.com>",
   "bugs": {
     "url": "https://github.com/jungledre/react-snow-effect/issues"
   },
@@ -67,7 +63,7 @@
   ],
   "license": "MIT",
   "main": "lib/snow.js",
-  "name": "react-snow-effect",
+  "name": "emoji-rain",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jungledre/react-snow-effect.git"
@@ -81,5 +77,8 @@
     "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.2.0"
+  "version": "1.2.0",
+  "directories": {
+    "lib": "lib"
+  }
 }

@@ -1,0 +1,22 @@
+# Standard Node Ignored
+node_modules
+dist
+coverage
+lib
+
+# Mac stuff
+.DS_Store
+
+# VS Code ignores
+tsd.json
+.settings/
+.vscode/
+typings/
+jsconfig.json
+
+# intelliJ
+.idea
+
+# app specific
+bundle.js
+npm-debug.log
